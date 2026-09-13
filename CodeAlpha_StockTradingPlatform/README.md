@@ -6,7 +6,7 @@ A simulated stock trading console application built using Java as part of the Co
 - **Market Simulation**: Live stock watch with simulated real-time price fluctuations.
 - **Trading Operations**: Buy and sell shares with automatic wallet deduction/addition and quantity validation.
 - **Portfolio Tracking**: Real-time evaluation of cash balance, held assets, and overall account value.
-- **Transaction History**: Detailed audit trail of all completed buy and sell orders[cite: 1].
+- **Transaction History**: Detailed audit trail of all completed buy and sell orders.
 - **File Persistence**: Automatically exports and saves account balances and holdings to a local file (`portfolio.txt`).
 
 ## Tech Stack
