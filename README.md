@@ -1,17 +1,30 @@
 # CodeAlpha Java Programming Internship Tasks
 
-This repository contains the completed tasks for the CodeAlpha Java Programming Internship.
+This repository contains all completed projects for the CodeAlpha Java Programming Internship[cite: 1].
 
 ## Completed Tasks
 
-1. **[Task 1: Student Grade Tracker](./Task1_StudentGradeTracker)**
-   - Java console application to track, calculate averages, and report student grades.
-2. **[Task 2: Stock Trading Platform](./Task2_StockTradingPlatform)**
-   - Object-Oriented stock trading simulation with market updates, portfolio management, and file storage[cite: 1].
-3. **[Task 4: Hotel Reservation System](./Task4_HotelReservationSystem)**
-   - Room reservation system featuring room categorization, payment simulation, and booking persistence[cite: 1].
+1. **[Task 1: Student Grade Tracker](./CodeAlpha_StudentGradeTracker)**
+   - Console-based Java application to track student performance, calculate individual & class averages, and generate analytical summary reports[cite: 1].
 
-## Environment & Tools
+2. **[Task 2: Stock Trading Platform](./CodeAlpha_StockTradingPlatform)**
+   - Object-Oriented stock trading simulation featuring live price fluctuations, wallet & portfolio tracking, transaction logs, and file persistence (`portfolio.txt`)[cite: 1].
+
+3. **[Task 4: Hotel Reservation System](./CodeAlpha_HotelReservationSystem)**
+   - Hotel booking system supporting room categorization (`Standard`, `Deluxe`, `Suite`), payment processing simulation, reservation cancellations, and data logging (`bookings.txt`)[cite: 1].
+
+---
+
+## Technical Stack & Tools
+
 - **Language**: Java (JDK 8+)
-- **IDE/Editor**: Visual Studio Code / Terminal
+- **IDE**: Visual Studio Code
 - **Version Control**: Git & GitHub
+
+---
+
+## Author
+
+- **Name**: Aditya Raj
+- **Domain**: Java Programming Internship
+- **Organization**: CodeAlpha
