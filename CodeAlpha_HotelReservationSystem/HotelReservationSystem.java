@@ -1,4 +1,4 @@
-package CodeAlpha_JavaProgramming.CodeAlpha_HotelReservationSystem;
+package codealpha_tasks.CodeAlpha_HotelReservationSystem;
 
 import java.io.*;
 import java.util.*;
