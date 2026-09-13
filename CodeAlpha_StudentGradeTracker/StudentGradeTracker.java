@@ -1,4 +1,4 @@
-package CodeAlpha_JavaProgramming.Task1_StudentGradeTracker;
+package CodeAlpha_JavaProgramming.CodeAlpha_StudentGradeTracker;
 
 import java.util.ArrayList;
 import java.util.Scanner;
